@@ -1,0 +1,178 @@
+[
+  {
+    "id": 4,
+    "name": "João da Silva",
+    "account": {
+      "number": "00000000-0",
+      "agency": "0001",
+      "balance": 1320.64,
+      "limit": 1000.0
+    },
+    "card": {
+      "number": "xxxx xxxx xxxx 0000",
+      "limit": 1000.0
+    },
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "João, pequenos passos geram grandes resultados. Comece a investir!"
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "João, seu futuro começa hoje! Invista seu dinheiro e veja-o crescer."
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "João da Silva, invista no seu futuro! Pequenos passos geram grandes resultados."
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "João da Silva, invista no seu futuro! Pequenos passos geram grandes resultados."
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "João da Silva, invista no seu futuro! Pequenos passos geram grandes resultados."
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "João da Silva, invista no seu futuro! Pequenos passos geram grandes resultados."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Paulo da Silva",
+    "account": {
+      "number": "00000000-1",
+      "agency": "0001",
+      "balance": 132320.64,
+      "limit": 1000000.0
+    },
+    "card": {
+      "number": "xxxx xxxx xxxx 1111",
+      "limit": 1000000.0
+    },
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Paulo, faça seu capital render! Invista e construa o futuro que você deseja."
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Paulo, seu futuro merece mais! Otimize seu capital com investimentos inteligentes. Conte conosco."
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Paulo da Silva, invista no seu futuro! Pequenos passos geram grandes resultados."
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Paulo da Silva, invista no seu futuro! Pequenos passos geram grandes resultados."
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Paulo da Silva, invista no seu futuro! Pequenos passos geram grandes resultados."
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Paulo da Silva, invista no seu futuro! Pequenos passos geram grandes resultados."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Carlos da Silva",
+    "account": {
+      "number": "00000000-3",
+      "agency": "0001",
+      "balance": 320.64,
+      "limit": 0.0
+    },
+    "card": {
+      "number": "xxxx xxxx xxxx 2222",
+      "limit": 10.0
+    },
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Carlos, invista no seu futuro. Potencialize suas conquistas. Comece agora!"
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Carlos, faça seu dinheiro render e construa seu futuro. Invista com a gente!"
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Carlos da Silva, invista no seu futuro! Pequenos passos geram grandes resultados."
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Carlos da Silva, invista no seu futuro! Pequenos passos geram grandes resultados."
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Carlos da Silva, invista no seu futuro! Pequenos passos geram grandes resultados."
+      },
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "Carlos da Silva, invista no seu futuro! Pequenos passos geram grandes resultados."
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Mateus",
+    "account": {
+      "number": "00001-1",
+      "agency": "string",
+      "balance": 0.0,
+      "limit": 0.0
+    },
+    "card": {
+      "number": "**** **** **** 1234",
+      "limit": 500.0
+    }
+  },
+  {
+    "id": 1,
+    "name": "Lucas",
+    "account": {
+      "number": "00002-2",
+      "agency": "0001",
+      "balance": 0.0,
+      "limit": 1000.0
+    },
+    "card": {
+      "number": "**** **** **** 2222",
+      "limit": 1000.0
+    }
+  },
+  {
+    "id": 2,
+    "name": "Clara",
+    "account": {
+      "number": "00003-3",
+      "agency": "0003",
+      "balance": 0.0,
+      "limit": 300.0
+    },
+    "card": {
+      "number": "**** **** **** 3333",
+      "limit": 300.0
+    }
+  },
+  {
+    "id": 3,
+    "name": "Mariana",
+    "account": {
+      "number": "00004-4",
+      "agency": "0004",
+      "balance": 0.0,
+      "limit": 2000.0
+    },
+    "card": {
+      "number": "**** **** **** 4444",
+      "limit": 2000.0
+    }
+  }
+]
