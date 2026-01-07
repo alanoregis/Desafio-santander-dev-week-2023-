@@ -54,30 +54,7 @@ A API simula dados realistas de clientes bancários, incluindo:
 
     Lista de notícias/mensagens
 
-   🛠️ Tecnologias Utilizadas
-📋 Backend & API
-Tecnologia	Versão	Finalidade	Documentação
-Python	3.9+	Linguagem principal do projeto	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-FastAPI	0.100+	Framework para criação da API REST	https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
-Uvicorn	0.22+	ASGI server para execução da API	https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=uvicorn&logoColor=white
-📊 Processamento de Dados & ETL
-Tecnologia	Versão	Finalidade	Documentação
-Pandas	1.5+	Manipulação e análise de dados CSV	https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-Requests	2.28+	Cliente HTTP para consumo de APIs	https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white
-OpenAI API	-	Geração de mensagens com IA Generativa	https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white
-🐳 Containerização & DevOps
-Tecnologia	Versão	Finalidade	Documentação
-Docker	20.10+	Containerização da aplicação	https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-Docker Compose	2.17+	Orquestração de containers	https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white
-📁 Formato de Dados & Serialização
-Tecnologia	Finalidade	Badge
-CSV	Armazenamento inicial dos IDs dos usuários	https://img.shields.io/badge/CSV-Data_Format-239120?style=for-the-badge
-JSON	Formato de comunicação da API	https://img.shields.io/badge/JSON-Data_Format-000000?style=for-the-badge&logo=json&logoColor=white
-🔧 Ferramentas de Desenvolvimento
-Tecnologia	Finalidade	Badge
-Git	Controle de versão	https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-GitHub	Hospedagem do código	https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-Virtual Env	Ambiente virtual Python	https://img.shields.io/badge/Virtual_Env-3776AB?style=for-the-badge&logo=python&logoColor=white
+
 
 
     
